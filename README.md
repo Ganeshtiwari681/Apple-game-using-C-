@@ -1,2 +1,2 @@
-# Apple-game-using-C-
+# Apple-game-using-C++-
 using C++ of object based approach
